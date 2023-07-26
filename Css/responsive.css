@@ -1,0 +1,64 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+
+
+
+
+@media  (max-width:380px){
+
+  
+}
+@media  (min-width:576px){
+
+    .logo{
+        font-size: 40px;
+    }
+   
+    
+
+}
+@media  (min-width:768px){
+  
+    .menu-btn{
+        display:none;
+    }
+    .mobail-menu{
+
+      display: none;
+    }
+  .desc-nav{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .social-media{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .form-btn{
+    margin: 20px 0;
+  }
+}
+
+@media  (min-width:780px){
+
+    
+   
+}
+@media  (min-width:992px){
+
+    
+   
+}
+@media  (min-width:1200px){
+
+}
+@media  (min-width:1400px){
+
+}
